@@ -1,6 +1,6 @@
 # Guvi Day-12  
-
 ## Task -2 
+-  Deployed URL : https://banglapolymath.netlify.app
 
 ***
 # Kazi Nazrul Islam
@@ -10,6 +10,6 @@
 ___
 
 ---
--  Deployed URL : https://banglapolymath.netlify.app
+
 
 
